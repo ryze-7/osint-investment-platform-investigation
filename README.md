@@ -6,7 +6,7 @@ The objective of this project was to analyze and verify the legitimacy of an onl
 
 ---
 
-## 📌 Investigation Scope
+## Investigation Scope
 
 The investigation focused on:
 
@@ -20,7 +20,7 @@ All analysis was performed using open-source tools and passive methods only.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - VirusTotal  
 - Mobile Security Framework (MobSF)  
@@ -32,7 +32,7 @@ All analysis was performed using open-source tools and passive methods only.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```report/ → Final investigation report (PDF/DOCX)
 evidence/ → Screenshots and supporting materials
@@ -42,7 +42,7 @@ disclaimer/ → Legal and educational disclaimer
 ```
 ---
 
-## ⚠️ Important Notice
+## Important Notice
 
 - All findings are based solely on publicly available information.
 - No systems were accessed without authorization.
@@ -53,7 +53,7 @@ This project is intended strictly for **educational, research, and awareness pur
 
 ---
 
-## 👤 Analyst
+## Analyst
 
 **Shourya Kashyap**  
 January 2026
