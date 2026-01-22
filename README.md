@@ -38,7 +38,7 @@ All analysis was performed using open-source tools and passive methods only.
 evidence/ → Screenshots and supporting materials
 diagrams/ → Investigation flowcharts (PNG + HTML)
 indicators/ → Sanitized indicators (non-clickable)
-disclaimer/ → Legal and educational disclaimer
+report/ → Report avaiable in both DOCX and PDF
 ```
 ---
 
