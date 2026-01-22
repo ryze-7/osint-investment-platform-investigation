@@ -34,12 +34,12 @@ All analysis was performed using open-source tools and passive methods only.
 
 ## 📂 Repository Structure
 
-report/ → Final investigation report (PDF/DOCX)
+```report/ → Final investigation report (PDF/DOCX)
 evidence/ → Screenshots and supporting materials
 diagrams/ → Investigation flowcharts (PNG + HTML)
 indicators/ → Sanitized indicators (non-clickable)
 disclaimer/ → Legal and educational disclaimer
-
+```
 ---
 
 ## ⚠️ Important Notice
