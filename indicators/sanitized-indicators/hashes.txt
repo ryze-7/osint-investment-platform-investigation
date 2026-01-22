@@ -1,0 +1,16 @@
+# File hashes extracted from malware analysis
+# Static analysis only
+
+APK SHA256:
+750bc0d39a40c9fe0fd7a372c19acfcb643060aecfa317688f874348438d54d6
+
+APK SHA1: 
+ebb0743032ec3d33223cbb51212122bc64cc3a47
+
+APK MD5:
+92f01d49fc54de2a79e3e3a3c57f6a67
+
+Notes:
+- Detected by limited AV engines as TrojanLoader
+- Behavior confirmed through dynamic analysis (MobSF)
+- Low VirusTotal score due to staged payload loading

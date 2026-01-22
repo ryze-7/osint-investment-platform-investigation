@@ -1,0 +1,12 @@
+# Analyst Notes
+
+- Company claims high-return investment model inconsistent with regulated trading
+- Application requests unnecessary permissions
+- Backend infrastructure inconsistent with claimed company origin
+- Certification images edited using image manipulation software
+- CEO identity lacks independent digital footprint
+- Regulatory registrations used for legitimacy appearance only
+
+Disclaimer:
+All indicators are collected using open-source intelligence techniques.
+No active exploitation or intrusion was performed.

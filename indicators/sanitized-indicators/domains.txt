@@ -1,0 +1,12 @@
+# Domains observed during OSINT investigation
+# Sanitized format (defanged)
+
+dsj080[.]com
+dsj960[.]com/pc/
+dsjop[.]com/pc/
+bg662[.]com
+
+Notes:
+- Domains were observed embedded inside mobile application traffic
+- Some domains resolved behind CDN services
+- Multiple domains flagged by security scanners
